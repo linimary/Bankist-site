@@ -1,4 +1,4 @@
-"Bankist" - simple banking site.
+"Bankist" - simple banking site. Only desktop version.
 
 A project from The complete JavaScript course, Jonas Schmedtmann.
 
